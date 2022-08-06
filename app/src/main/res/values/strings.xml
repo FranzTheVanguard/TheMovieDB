@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="movie_browser">Movie Browser</string>
+    <string name="genre_name">Genre Name</string>
+</resources>
